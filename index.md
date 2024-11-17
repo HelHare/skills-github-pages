@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-I like bananas
+title: I like bananas
 ---
 
